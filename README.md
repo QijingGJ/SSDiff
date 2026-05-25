@@ -1,6 +1,6 @@
 # SSDiff: Guided Feature-Disentangled Contrast-Free LGE Synthesis via Diffusion Model with Joint Segmentation Decoders ([PDF](https://ieeexplore.ieee.org/document/11503374))
 
-<img width="1051" height="1107" alt="image" src="https://github.com/user-attachments/assets/26bd919f-2fe8-4960-a686-dab87ffc5c1d" />
+<img width="1186" height="1268" alt="image" src="https://github.com/user-attachments/assets/dfccddf1-6f3b-462f-bd2e-43b804aefcc7" />
 
 
 ## Training
